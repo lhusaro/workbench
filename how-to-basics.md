@@ -1,8 +1,8 @@
-# useful links
+# useful links for some basic how tos
 
 tags: useful-links, markdown, github, basics, how-to
 
-## Markdown
+## markdown
 
 [Markdown basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
@@ -10,4 +10,4 @@ tags: useful-links, markdown, github, basics, how-to
 
 ## github
 
-[Github shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts)
+[GitHub shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts)
