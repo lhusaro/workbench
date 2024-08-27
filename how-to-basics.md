@@ -9,6 +9,7 @@ tags: useful-links, markdown, github, basics, how-to
 [Markdown basic formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [Markdown autolinked references](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/autolinked-references-and-urls)
+
 [Markdown permanent link](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet)
 
 [Markdown guide](https://www.markdownguide.org/basic-syntax/)
@@ -17,6 +18,11 @@ tags: useful-links, markdown, github, basics, how-to
 ### github links
 
 [GitHub shortcuts](https://docs.github.com/en/get-started/accessibility/keyboard-shortcuts)
+
+[GitHub command palette](https://docs.github.com/en/get-started/accessibility/github-command-palette)
+
+[GitHub docs](https://docs.github.com/en)
+
 [Code scanning alerts in issues](https://docs.github.com/en/code-security/code-scanning/managing-code-scanning-alerts/tracking-code-scanning-alerts-in-issues-using-task-lists)
 
 
